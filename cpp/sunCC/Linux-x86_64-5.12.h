@@ -1,0 +1,71 @@
+#define __cplusplus 199711L
+#define __STDC__ 1
+#define _WCHAR_T 
+#define _BOOL 1
+#define __ARRAYNEW 1
+#define __DATE__ "Apr 12 2018"
+#define __TIME__ "08:40:12"
+#define __LINE__ 
+#define __FILE__ 
+#define _SIGNEDCHAR_ 1
+#define __PRAGMA_REDEFINE_EXTNAME 1
+#define __asm asm
+#define __asm__ asm
+#define __volatile volatile
+#define __volatile__ volatile
+#define __inline__ inline
+#define __signed__ signed
+#define __SIZE_TYPE__ unsigned long
+#define __PTRDIFF_TYPE__ long
+#define __WCHAR_TYPE__ int
+#define __gnuc_va_list va_list
+#define __builtin_huge_val __oracle_builtin_huge_val
+#define __builtin_huge_valf __oracle_builtin_huge_valf
+#define __builtin_huge_vall __oracle_builtin_huge_vall
+#define __builtin_infinity __oracle_builtin_infinity
+#define __builtin_nan __oracle_builtin_nan
+#define __builtin_fpclassify __oracle_builtin_fpclassify
+#define __builtin_isfinite __oracle_builtin_isfinite
+#define __builtin_isinf __oracle_builtin_isinf
+#define __builtin_isnan __oracle_builtin_isnan
+#define __builtin_isnormal __oracle_builtin_isnormal
+#define __builtin_signbit __oracle_builtin_signbit
+#define __builtin_isgreater __oracle_builtin_isgreater
+#define __builtin_isgreaterequal __oracle_builtin_isgreaterequal
+#define __builtin_isless __oracle_builtin_isless
+#define __builtin_islessequal __oracle_builtin_islessequal
+#define __builtin_islessgreater __oracle_builtin_islessgreater
+#define __builtin_isunordered __oracle_builtin_isunordered
+#define _LARGEFILE64_SOURCE 1
+#define __attribute __attribute__
+#define __TYPE_OPERATORS_ALIASED 1
+#define __is_pod __oracle_is_pod
+#define __is_empty __oracle_is_empty
+#define __is_enum __oracle_is_enum
+#define __is_class __oracle_is_class
+#define __is_union __oracle_is_union
+#define __is_abstract __oracle_is_abstract
+#define __is_polymorphic __oracle_is_polymorphic
+#define __has_virtual_destructor __oracle_has_virtual_destructor
+#define __has_trivial_destructor __oracle_has_trivial_destructor
+#define __is_base_of __oracle_is_base_of
+#define __alignof__ __alignof
+#define __SUNPRO_CC 0x5120
+#define __unix 1
+#define __unix__ 1
+#define linux 1
+#define __linux 1
+#define __linux__ 1
+#define __gnu__linux__ 1
+#define __builtin_expect(e, x) e
+#define __x86_64 1
+#define __x86_64__ 1
+#define __amd64 1
+#define __amd64__ 1
+#define _LP64 1
+#define __LP64__ 1
+#define __BUILTIN_VA_STRUCT 1
+#define unix 1
+#define __SUN_PREFETCH 1
+#define __SUNPRO_CC_COMPAT 5
+#define __NOVECTORSIZE__ 1
